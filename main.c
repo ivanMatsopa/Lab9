@@ -4,9 +4,9 @@
 // RecordType
 struct RecordType
 {
-  int		id;
-  char	name;
-  int		order; 
+  int	id;
+  char name;
+  int	order; 
   struct RecordType* next;
 };
 
